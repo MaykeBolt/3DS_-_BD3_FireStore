@@ -1,7 +1,7 @@
 import { collection, addDoc, getDocs } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js'
 
 let alunoMayke = {
-    nome: "Mayke",
+    nome: "Mayke Souza da Silva",
     ra: "00028922"
 }
 
